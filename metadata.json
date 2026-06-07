@@ -1,0 +1,6 @@
+{
+  "name": "Bus Simulator",
+  "description": "A realistic bus driving simulator with interactive dashboard controls and highway traffic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
